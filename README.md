@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 
 ### Github stats
 
-[![tree's GitHub stats](https://github-readme-stats.vercel.app/api?username=teney97&&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![tree's GitHub stats](https://github-readme-stats.vercel.app/api?username=teney97&&show_icons=true&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 [![tree's GitHub stats](https://github-readme-stats.vercel.app/api?username=littleTreeme&
