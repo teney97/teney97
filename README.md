@@ -3,9 +3,12 @@
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=teney97&&show_icons=true&theme=github_dark" />
 
-- 🔭 I’m currently working on BabyBus
-- 🌱 I’m currently learning Swift
 
+我是一个来自福州的普通的 iOS 开发者，目前就职于 BabyBus。同时我还是：
+
+- [iOS摸鱼周报](https://github.com/zhangferry/iOSWeeklyLearning)编辑
+- LOLM、王者荣耀玩家
+- 漫威粉
 
 <!--
 **teney97/teney97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
