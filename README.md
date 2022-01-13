@@ -30,4 +30,3 @@ Here are some ideas to get you started:
 
 - [掘金](https://juejin.cn/user/782508012091645/posts)
 - [简书](https://www.jianshu.com/u/7c0b405b4b46)
-- 微信公众号：iOS星球
