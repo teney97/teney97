@@ -7,8 +7,6 @@
 我是一个来自福州的 iOS 开发者，目前就职于 BabyBus。同时我还是：
 
 - [iOS摸鱼周报](https://github.com/zhangferry/iOSWeeklyLearning)编辑
-- LOLM、王者荣耀玩家
-- 漫威粉
 
 <!--
 **teney97/teney97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
